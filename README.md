@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🎮 Simple Calculate, project to do the main operation in math like (+-*/...) with history to show the operations history.</h4>
+<h4 align="left">Simple Calculate, project to do the main operation in math like (+-*/...) with history to show the operations history.</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">🎯 in my computer in saw the calculate of microsoft and i admired it because it has history about your operations so i took the decision to do it, and to practise about controls in C#.</h4>
+<h4 align="left">In my computer in saw the calculate of microsoft and i admired it because it has history about your operations so i took the decision to do it, and to practise about controls in C#.</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">📢 it's good for anyone wants to do the main operation in math or someone loves the subject of math.</h4>
+<h4 align="left">It's good for anyone wants to do the main operation in math or someone loves the subject of math.</h4>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">1️⃣- Normal Calculate: the main operation like {Sum,Sub,Div,etc...} and clear and delete and more operation with hirstory of your operation,in History operation you can do delete or delete all, and in the text box you can do Copy and Paste on any numbers.</h4>
+<h4 align="left">1- Normal Calculate: the main operation like {Sum,Sub,Div,etc...} and clear and delete and more operation with hirstory of your operation,in History operation you can do delete or delete all, and in the text box you can do Copy and Paste on any numbers.</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">💻 I used C# .Net Framework to build this project.</h4>
+<h4 align="left">I used C# .Net Framework to build this project.</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h4 align="left">🧱 I faced problem about Numbers priorities and i cannot set all Numbers with operations in textbox so i do this rule Number (Operation) Number that`s my solve about it.</h4>
+<h4 align="left">I faced problem about Numbers priorities and i cannot set all Numbers with operations in textbox so i do this rule Number (Operation) Number that`s my solve about it.</h4>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h4 align="left">🗒️ I don`t have any future plane about this Calculate.</h4>
+<h4 align="left">I don`t have any future plane about this Calculate.</h4>
 
 ###
 
@@ -80,6 +80,6 @@
 
 ###
 
-<h4 align="left">📧 In the end if you want some details about this project ask me.</h4>
+<h4 align="left">In the end if you want some details about this project ask me.</h4>
 
 ###
